@@ -1,0 +1,6 @@
+{
+  "vers" : "1.5.3",
+  "ts" : {{ Now }}
+  "value1" : {{ f1 "p1" "p2" }}
+  "client" : {{ .client }}
+}
